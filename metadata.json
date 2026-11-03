@@ -1,0 +1,6 @@
+{
+  "name": "EverywhereMarket",
+  "description": "El marketplace definitivo con envíos ultra-rápidos, protección al comprador y el subdominio exclusivo halloween.everywheremarket.com con ofertas de terror.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
