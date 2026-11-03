@@ -23,7 +23,7 @@ El proyecto ya está completamente configurado y optimizado para **Vercel**.
    - **Framework Preset**: `Vite`
    - **Build Command**: `npm run build`
    - **Output Directory**: `dist`
-   - **Install Command**: `npm install`
+   - **Install Command**: `npm install --legacy-peer-deps`
 6. Haz clic en **Deploy**. ¡Tu marketplace estará en línea en segundos!
 
 ---
